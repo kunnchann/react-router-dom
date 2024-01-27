@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "book": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "slug": "catcher-in-the-rye",
+    "description": "A classic novel about the experiences of a teenager named Holden Caulfield in New York City. The story follows Holden as he navigates the challenges of adolescence, questioning societal norms and searching for authenticity in a world he perceives as phony. The Catcher in the Rye remains a timeless exploration of identity, alienation, and the human condition.",
+    "image": "https://thethinksync.com/wp-content/uploads/2021/09/thecatcherintherye.jpg"
+  },
+  {
+    "id": "2",
+    "book": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "slug": "to-kill-a-mockingbird",
+    "description": "A powerful story of racial injustice and moral growth in the American South during the 1930s. To Kill a Mockingbird follows the journey of Scout Finch, her brother Jem, and their father, Atticus Finch, as they navigate the challenges of a racially divided society. The novel tackles themes of compassion, empathy, and the fight for justice.",
+    "image": "https://epqkkxb65h3.exactdn.com/wp-content/uploads/2023/02/m-2908.jpg"
+  },
+  {
+    "id": "3",
+    "book": "1984",
+    "author": "George Orwell",
+    "slug": "1984",
+    "description": "A dystopian novel that explores the consequences of government overreach and surveillance. In 1984, George Orwell paints a chilling picture of a totalitarian society where individuality is suppressed, and the government controls every aspect of citizens' lives. The novel serves as a warning about the dangers of unchecked power and the erosion of personal freedoms.",
+    "image": "https://cdn.kobo.com/book-images/c9472126-7f96-402d-ba57-5ba4c0f4b238/1200/1200/False/nineteen-eighty-four-1984-george.jpg"
+  },
+  {
+    "id": "4",
+    "book": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "slug": "the-great-gatsby",
+    "description": "An exploration of the American Dream and the decadence of the Roaring Twenties. The Great Gatsby delves into the world of Jay Gatsby, a mysterious millionaire, and his unrequited love for Daisy Buchanan. F. Scott Fitzgerald's masterpiece explores themes of wealth, class, and the elusive nature of the American Dream.",
+    "image": "https://m.media-amazon.com/images/I/81QuEGw8VPL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "5",
+    "book": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "slug": "harry-potter",
+    "description": "The first book in the popular Harry Potter series, introducing the world of magic and wizardry. Harry Potter and the Philosopher's Stone follows the journey of a young wizard, Harry Potter, as he discovers his magical abilities and unravels the mysteries of his past. J.K. Rowling's enchanting tale captivates readers with themes of friendship, courage, and the battle between good and evil.",
+    "image": "https://images.moviesanywhere.com/143cdb987186a1c8f94d4f18de211216/fdea56fa-2703-47c1-8da8-70fc5382e1ea.jpg"
+  },
+  {
+    "id": "6",
+    "book": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "slug": "the-hobbit",
+    "description": "An adventure novel that follows the journey of Bilbo Baggins as he helps a group of dwarves reclaim their homeland. The Hobbit, set in the magical world of Middle-earth, takes readers on a quest full of danger, friendship, and self-discovery. J.R.R. Tolkien's classic tale is a precursor to The Lord of the Rings and remains a beloved fantasy adventure.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": "7",
+    "book": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "slug": "pride-and-prejudice",
+    "description": "A classic romance novel exploring societal expectations, love, and misunderstandings in 19th-century England. Pride and Prejudice follows the spirited Elizabeth Bennet as she navigates the social complexities of her time and encounters the enigmatic Mr. Darcy. Jane Austen's timeless work continues to captivate readers with its wit, humor, and enduring themes of love and social class.",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg"
+  },
+  {
+    "id": "8",
+    "book": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "slug": "the-lord-of-the-rings",
+    "description": "An epic fantasy trilogy that follows the quest to destroy the One Ring and defeat the Dark Lord Sauron. The Lord of the Rings takes readers on a grand journey through the fantastical landscapes of Middle-earth. J.R.R. Tolkien weaves a rich tapestry of characters, cultures, and lore, creating a timeless epic of heroism, friendship, and the battle between light and darkness.",
+    "image": "https://m.media-amazon.com/images/I/71jLBXtWJWL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "9",
+    "book": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "slug": "the-hunger-games",
+    "description": "A dystopian novel set in a post-apocalyptic world where teenagers are chosen to participate in a televised fight to the death. The Hunger Games follows the courageous Katniss Everdeen as she confronts the brutality of the Capitol's Hunger Games. Suzanne Collins' gripping tale explores themes of survival, sacrifice, and the consequences of unchecked power.",
+    "image": "https://m.media-amazon.com/images/I/61I24wOsn8L._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "10",
+    "book": "Frankenstein",
+    "author": "Mary Shelley",
+    "slug": "frankenstein",
+    "description": "A gothic science fiction novel exploring the consequences of playing god and creating life. Frankenstein tells the tragic story of Victor Frankenstein, a scientist who creates a creature that becomes a symbol of unchecked scientific ambition. Mary Shelley's groundbreaking work delves into themes of morality, identity, and the consequences of playing with the forces of nature.",
+    "image": "https://m.media-amazon.com/images/I/81z7E0uWdtL._AC_UF1000,1000_QL80_.jpg"
+  }
+]
